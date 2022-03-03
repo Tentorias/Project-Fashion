@@ -1,0 +1,150 @@
+*{box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+header{
+    background-color: rgb(33, 34, 49);
+    padding: 15px;
+}
+
+.logo{
+    width: 150px;
+    height: 50px;
+    margin-left: 230px;
+}
+
+.nav-header{
+    float: right;
+}
+
+li {
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    list-style: none;
+    display: inline-block;
+    padding: 15px;
+    font-size: 20px;
+    color: rgb(150, 150, 182);
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+
+.img-header{
+    width: 100%;
+    height: 900px;
+}
+
+main{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.article-h1{
+    font-size: 25px;
+    letter-spacing: 3px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.137);
+    margin-top: 90px;
+}
+
+.mid-h1 {
+    font-size: 60px;
+}
+
+.p-mid{
+    margin-top: 50px;
+    letter-spacing: 2px;
+    margin-right: 29px;
+    margin-left: 15px;
+    color: rgb(65, 65, 65);
+}
+
+.section-img{
+    margin-top: 250px;
+}
+
+.aaa{
+    width: 33%;
+    float: left;
+    margin-top: -150px;
+}
+
+.buga{
+    width: 500px;
+}
+
+.abc {
+    font-size: 25px;
+    padding: 20px;
+    color: rgb(92, 92, 92);
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.137);
+}
+
+.p-11 , .p-22 , .p-33{
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+.p-3 , .p-2 , .p-1{
+    margin-top: -10px;
+    margin-bottom: -30px;
+    letter-spacing: 5px;
+}
+
+.article-words {
+    margin-top: 800px;
+    background-image: url(/ProjetoFashion_inicio/imagens/bg_detalhe.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1600px;
+    height: 730px;
+}
+
+.div-words{
+    padding: 150px;
+
+}
+
+.h1-words {
+    font-size: 90px;
+    text-transform: uppercase;
+    text-align: left;
+    color: azure;
+    letter-spacing: 4px;
+    margin-top: -25px;
+}
+
+.p-words{
+    font-size: 27px;
+    color: white;
+    margin-top: 50px;
+    letter-spacing: 2px;
+}
+
+.number {
+    text-transform: uppercase;
+    color: rgb(39, 39, 133);
+    font-size: 55px;
+    font-weight: bolder;
+    padding: 60px;
+}
+
+.mapa {
+   width: 100%;
+   height: 920px;
+   margin-bottom: 60px;
+   
+}
+
+footer{
+    background-color: rgb(33, 34, 49);
+    padding: 10px;
+}
+
+.p-footer{
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    color: rgb(150, 150, 182);
+}
